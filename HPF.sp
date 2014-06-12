@@ -1,9 +1,9 @@
-*************************************************************************************
-*******************************High Pass Filter First Order**************************
-*************************************************************************************
-***** Porush, Vivek                               e-mail: vporus2@uic.edu************
-*****                        vivek.91.porush@gmail.com                        *******
-***High Pass Filter First Order                                                   ***
+**************************************************************************************
+*******************************High Pass Filter First Order***************************
+**************************************************************************************
+***** Porush, Vivek                               e-mail: vporus2@uic.edu*************
+*****                        vivek.91.porush@gmail.com                         *******
+***High Pass Filter First Order                                                    ***
 ***    Copyright (C) <2014>  <Porush Vivek>                                        ***
 ***    This program is free software: you can redistribute it and/or modify        ***
 ***    it under the terms of the GNU Affero General Public License as published by ***
