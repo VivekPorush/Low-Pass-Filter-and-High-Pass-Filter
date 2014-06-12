@@ -24,9 +24,9 @@
 *************************************************************************************
 ***Circuit parameters are given as :-->                                           ***
 ***                                                                               ***
-***-->1. Vs	=  0.5 V AC                   \\ Input Voltage \\ \\ Passive \\       ***
-***-->2. Vregulated = +/- 12 V Dc         \\DC Regulated Voltage\\ \\Passive\\    ***
-***-->3. Fcutoff =	28.1 Khz              \\ Cut off Frequency \\ \\ Passive\\    ***
+***-->1. Vs = 0.5 V AC                   \\Input Voltage\\ \\Passive\\            ***
+***-->2. Vregulated = +/- 12 V Dc        \\DC Regulated Voltage\\ \\Passive\\     ***
+***-->3. Fcutoff = 28.1 Khz              \\Cut Off Frequency\\ \\ Passive\\       ***
 *************************************************************************************
 *************************************************************************************
 ***Output results :-->                                                            ***
