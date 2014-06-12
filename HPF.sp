@@ -2,9 +2,9 @@
 *******************************High Pass Filter First Order**************************
 *************************************************************************************
 ***** Porush, Vivek                               e-mail: vporus2@uic.edu************
-*****						vivek.91.porush@gmail.com                          *******
-***High Pass Filter First Order      			                                    ***
-***    Copyright (C) <2014>  <Porush Vivek> 	                                    ***
+*****                        vivek.91.porush@gmail.com                        *******
+***High Pass Filter First Order                                                   ***
+***    Copyright (C) <2014>  <Porush Vivek>                                        ***
 ***    This program is free software: you can redistribute it and/or modify        ***
 ***    it under the terms of the GNU Affero General Public License as published by ***
 ***    the Free Software Foundation, either version 3 of the License, or           ***
@@ -24,9 +24,9 @@
 *************************************************************************************
 ***Circuit parameters are given as :-->                                           ***
 ***                                                                               ***
-***-->1. Vs	=  0.5 V AC 					\\ Input Voltage  \\ \\ Passive \\     ***
-***-->2. Vregulated = +/- 12 V Dc          \\DC Regulated Voltage\\ \\Passive\\   ***
-***-->3. Fcutoff =	28.1 Khz				\\ Cut off Frequency \\ \\ Passive\\   ***
+***-->1. Vs	=  0.5 V AC                   \\ Input Voltage \\ \\ Passive \\       ***
+***-->2. Vregulated = +/- 12 V Dc         \\DC Regulated Voltage\\ \\Passive\\    ***
+***-->3. Fcutoff =	28.1 Khz              \\ Cut off Frequency \\ \\ Passive\\    ***
 *************************************************************************************
 *************************************************************************************
 ***Output results :-->                                                            ***
