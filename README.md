@@ -1,9 +1,7 @@
 Low-Pass-Filter-and-High-Pass-Filter
 ====================================
 
-First Order LPF &amp; HPF
-LPF-Using-Active-Resistor
-=========================
+First Order LPF & HPF
 
 This project provides Spice code for LPF & HPF first order.
 
