@@ -16,8 +16,6 @@ General Usage Notes
 	- This particular version is specified for LTSpice/HSPICE.
 	- Max threads are limited to 4 in LTSPice, thus limiting performance & extended
 	  simulation times.
-	- Active Resistor is implemented using NMOS.
-	- Further versions can include implementation of MOS as a capacitor, thus improving IC fabrication.
 
 =============
 Introduction
@@ -55,20 +53,20 @@ Specified as per the required type of output:
 =======================================
 Macro Model Pin Configuration
 =======================================
-Listed below is the pin configuration of NMOS used in this project:
+Listed below is the pin configuration of LM741 used in this project:
 
     *//////////////////////////////////////////////////////////
-    *NMOS Macro Spice Model
+    *LM741 OPERATIONAL AMPLIFIER MACRO-MODEL (National Semiconductors)
     *//////////////////////////////////////////////////////////
     *
-    * connections:      Drain
-    *                   |   Gate
-    *                   |   |   Source
-    *                   |   |   |   Body
-    *                   |   |   |   |
-    *                   |   |   |   |
-    *                   |   |   |   |
-    *NMOS nmos          1   2   3   4
+    * connections:      non-inverting input
+    *                   |   inverting input
+    *                   |   |   positive power supply
+    *                   |   |   |   negative power supply
+    *                   |   |   |   |   output
+    *                   |   |   |   |   |
+    *                   |   |   |   |   |
+    .SUBCKT LM741       1   2  99  50  28
 
 ===============
 Documentation
